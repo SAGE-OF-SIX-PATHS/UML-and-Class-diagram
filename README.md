@@ -10,4 +10,5 @@
 ### 3.    The system seamlessly gives students access to their academic Results and overall Reports.
 
 ## CLASS DIAGRAM OF THE PROPOSED SYSTEM:
-## My Class Diagram is a file alongside the Index.js and ReadMe named ClassDiagram.png, as I could not generate a URL for it from draw.io
+### My Class Diagram URL: https://drive.google.com/file/d/1fzvD9bzomTtMGd5ZwK_4eCzUXFoRS8eF/view?usp=drive_link
+### Alternative is a file alongside the Index.js and ReadMe named ClassDiagram.png.
